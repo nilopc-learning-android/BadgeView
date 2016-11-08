@@ -16,7 +16,7 @@ bind like this:
     .setShape(BadgeView.SHAPE_CIRCLE)
     .bind(view);
     
-There are some other constructer methods and you can easy to create your own shape :
+There are some other constructer methods and you can be easy to create your own shape :
 
     BadgeFactory.createDot(this).setBadgeCount(20).bind(imageView);
     BadgeFactory.createCircle(this).setBadgeCount(20).bind(imageView);
