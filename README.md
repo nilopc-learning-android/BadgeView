@@ -1,6 +1,7 @@
 # BadgeView
 a BadeView  base on android
-![](https://github.com/AlexLiuSheng/BadgeView/blob/master/library/gif.png)
+<img src="https://github.com/AlexLiuSheng/BadgeView/blob/master/library/gif.png" width="320"/>
+
 include:
 
       compile 'com.allenliu.badgeview:library:1.0.4'
