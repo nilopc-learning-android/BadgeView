@@ -28,3 +28,5 @@ There are some other constructer methods and you can be easy to create your own 
 unbind view just use `unbind` method.
    
      badgeView.unbind();
+     
+ if you like,welcome  to star.thank you
