@@ -1,6 +1,6 @@
 # BadgeView
 a BadeView  base on android
-<img src="https://github.com/AlexLiuSheng/BadgeView/blob/master/library/gif.png" width="320"/>
+<img src="https://github.com/nilopc-learning-android/BadgeView/blob/master/library/gif.png" width="320"/>
 
 include:
 
